@@ -38,6 +38,7 @@ cd sistema-gerenciamento-clientes
 # Execute a aplicação
 javac App.java
 java App
+```
 </pre>  
 
 ## Contribuições
