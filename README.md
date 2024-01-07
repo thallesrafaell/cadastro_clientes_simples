@@ -31,15 +31,14 @@ O sistema permite realizar as seguintes operações:
 ## Como Executar o Projeto
 
 Clone este repositório e abra o projeto em seu ambiente de desenvolvimento Java. Certifique-se de ter um ambiente Java configurado. Execute a classe `App.java` para iniciar a aplicação.
-<pre>
+
 ```bash
-git clone https://github.com/thallesrafaell/sistema-gerenciamento-clientes.git
-cd sistema-gerenciamento-clientes
+git clone https://github.com/thallesrafaell/cadastro_clientes_simples.git
+cd cadastro_clientes_simples
 # Execute a aplicação
 javac App.java
 java App
 ```
-</pre>  
 
 ## Contribuições
 Contribuições são bem-vindas! Se você encontrar problemas ou melhorias potenciais, sinta-se à vontade para criar uma issue ou enviar um pull request.
