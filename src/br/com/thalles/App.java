@@ -1,6 +1,7 @@
 package br.com.thalles;
 
 import br.com.thalles.dao.ClientMapDAO;
+import br.com.thalles.dao.ClienteSetDAO;
 import br.com.thalles.dao.IClienteDAO;
 import br.com.thalles.domain.Cliente;
 
@@ -12,7 +13,7 @@ public class App {
 
     public static void main(String arg[]){
 
-        iClienteDAO = new ClientMapDAO();
+        iClienteDAO = new ClienteSetDAO();
 
         String opcao = JOptionPane.showInputDialog(null,
                 "Digite 1 para cadastro, 2 para consulta, 3 para excluir, 4 para alterar ou 5 para sair",
